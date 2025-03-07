@@ -9,6 +9,10 @@ let database = [
         'Password':'08121993'
     },
     {
+        'User':'admin',
+        'Password':'admin'
+    },
+    {
         'User':'mumut',
         'Password':'mumut123'
     }
