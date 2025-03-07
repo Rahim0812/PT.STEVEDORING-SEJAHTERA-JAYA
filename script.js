@@ -5,10 +5,6 @@ const message = document.querySelector('#message');
 alert('LOGIN dengan user & password bray');
 let database = [
     {
-        'User':'rahim1993',
-        'Password':'08121993'
-    },
-    {
         'User':'admin',
         'Password':'admin'
     },
