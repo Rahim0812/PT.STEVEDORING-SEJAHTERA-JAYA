@@ -11,7 +11,7 @@ let database = [
     {
         'User':'admin',
         'Password':'admin'
-    },
+    }
     {
         'User':'mumut',
         'Password':'mumut123'
